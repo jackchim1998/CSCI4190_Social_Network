@@ -1,0 +1,18 @@
+stats:
+  Nodes:                    82168
+  Edges:                    504230
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         0
+  Zero OutDeg Nodes:        0
+  NonZero In-Out Deg Nodes: 82168
+  Unique directed edges:    1008460
+  Unique undirected edges:  504230
+  Self Edges:               0
+  BiDir Edges:              1008460
+  Closed triangles:         602592
+  Open triangles:           73175813
+  Frac. of closed triads:   0.008168
+  Connected component size: 1.000000
+  Strong conn. comp. size:  1.000000
+  Approx. full diameter:    11
+  90% effective diameter:  4.775920
